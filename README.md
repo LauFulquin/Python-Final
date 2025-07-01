@@ -1,5 +1,3 @@
-# Python-Final
-README.md
 Proyecto Python Final: Entorno Virtual y Comandos Git
 Este repositorio contiene el trabajo realizado para la actividad "Un día como programadores"
 en Python y Git.
@@ -46,7 +44,7 @@ un "repositorio" centralizado o una "tienda de aplicaciones" desde donde los pro
 obtener herramientas pre-escritas para ampliar las capacidades de sus proyectos sin tener que
 escribir todo el código desde cero.
 
-¿Por qué lo actualizamos?
+¿Por qué se debe actualizar?
 Actualizamos Pip regularmente por las siguientes razones:
 
 Nuevas Funcionalidades y Mejoras: Cada nueva versión de Pip puede introducir mejoras
@@ -58,3 +56,8 @@ y con las librerías más recientes, que a menudo requieren una versión actuali
 para su correcta instalación.
 Seguridad: Las actualizaciones frecuentemente incluyen parches de seguridad importantes
 que protegen el proceso de descarga e instalación de paquetes.
+Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
+
+Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
+
+Enlace al Repositorio en GitHub
