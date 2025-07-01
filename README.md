@@ -58,6 +58,3 @@ y con las librerías más recientes, que a menudo requieren una versión actuali
 para su correcta instalación.
 Seguridad: Las actualizaciones frecuentemente incluyen parches de seguridad importantes
 que protegen el proceso de descarga e instalación de paquetes.
-Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
-
-Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 d
